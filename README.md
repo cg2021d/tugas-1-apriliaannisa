@@ -5,13 +5,13 @@ Nama Benda : Ikat Pinggang
 
 ---
 depan atas:
-
+![atas](./Gambar/atas.jpg)
 
 belakang :
-
+![belakang](./Gambar/belakang.jpg)
 
 kanan :
-
+![kanan](./Gambar/kanan.jpg)
 
 kiri :
-
+![kiri](./Gambar/kiri.jpg)
