@@ -1,0 +1,46 @@
+
+h1 {
+    color: red;
+}
+* {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+.score {
+    position: absolute;
+    z-index: 99;
+    background-color: rgb(252, 214, 227);
+    border-radius: 10px;
+    padding: 5px 5px;
+} 
+button {
+    color: rgb(135, 243, 72);
+    position: absolute;
+    display: block;
+    z-index: 99;
+    background-color: white;
+    border-radius: 10px;
+    padding: 3px;
+    margin-top: 85%;
+}
+.down:active {
+    -webkit-transition: margin-top 0.2s ease, box-shadow 0.2s ease;
+    -moz-transition: margin-top 0.2s ease, box-shadow 0.2s ease;
+    transition: margin-top 0.2s ease, box-shadow 0.2s ease;
+
+
+    -webkit-box-shadow: 0px 0px 0px #3a3a3a;
+    -moz-box-shadow: 0px 0px 0px #3a3a3a;
+    box-shadow: 0px 0px 0px #3a3a3a;
+}
+.down {
+    -webkit-transition: margin-top 0.3s ease, box-shadow 0.3s ease;
+    -moz-transition: margin-top 0.3s ease, box-shadow 0.3s ease;
+    transition: margin-top 0.3s ease, box-shadow 0.3s ease;
+
+    background: #f8fcd2;
+    border: solid 1px #3a3a3a;
+
+}
+
